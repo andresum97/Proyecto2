@@ -1,3 +1,9 @@
+#Sistema de recomendación de restaurantes
+#Algoritmos y ADT, fecha: 30/05/2018
+#Desarrolladores: Paul Belches 
+                 #Rodrigo Morales
+                 #Alberto Urizar
+
 from proyecto import *
 
 menu = True
